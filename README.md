@@ -5,13 +5,12 @@ And also, please make sure you moved the utility to /usr/local/bin and ran in th
 and finally, to download, click on the green "Code" button, then copy the link there, and go to the terminal and run "git clone https://github.com/hiblari1/The-Install-Package-Utility-official-repository.git"
 Also, when you open the tool, it won't show nothing, press any key and wait for 3 seconds and all APT Packages shows up 
 
--**NOTE**: All community modification pass through our discord server, please join the discord server, go to #revamp-requests and send in your bash code, and then will be reviewed, after that, it gets putten in the "Community-revamps" branch of this repo, for example, you have an Pacman version of this utility (of course i won't make it because i won't get to debug it since i don't use Arch Linux), send it thru the #community-revamps channel and wait until you see a message in your DMs that say "Your revamp of ipkg was reviewed!..." if it was accepted, it'd say "Your revamp of ipkg was reviewed! and was accepted by the moderation team!" or if not, it'd say "Your revamp for ipkg was reviewed, and was NOT accepted by moderation team... ([reason])"
+-**NOTE**: All community modification pass through our discord server, please join the discord server, go to #revamp-requests and send in your bash code, and then will be reviewed, after that, it gets putten in the "Community-revamps" branch of this repo, for example, you have an Pacman version of this utility (of course i won't make it because i won't get to debug it since i don't use Arch Linux), send it thru the #community-revamps channel and wait until you see a message in your DMs that say "Your modification for ipkg was reviewed!..." if it was accepted, it'd say "Your modification for ipkg was reviewed! and was accepted by the moderation team!" or if not, it'd say "Your modification for ipkg was reviewed, and was NOT accepted by moderation team... ([reason])"
 
-**RULES OF REVAMP**
+**RULES OF MODIFIED VERSIONS FOR IPKG**
 -No malware distribution
 -You are technically not allowed to publish by yourself unless you have permission to
--and if someone encounters an error, DO NOT give him a command to harm his installation (e.g : "Use sudo rm -rf / --no-preserve-root" this command removes the / partition and bricks you installation)
-
+-And if the modification was heavy, *YOU* are responsible for errors for people and you answer that (Like a modification that the moderation team doesn't know what it needs)
 
 <img width="1020" height="699" alt="image" src="https://github.com/user-attachments/assets/f143b1cd-b322-47f3-97bd-f1ec47b17ad8" />
 
