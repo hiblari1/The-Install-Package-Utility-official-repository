@@ -17,3 +17,18 @@ Also, when you open the tool, it won't show nothing, press any key and wait for 
 <img width="1024" height="698" alt="image" src="https://github.com/user-attachments/assets/e18183e3-fe7a-46ad-935d-2fd0cede3055" />
 
 <img width="1024" height="698" alt="image" src="https://github.com/user-attachments/assets/7d526ab3-fe66-4f09-8d80-f867f529ee50" />
+
+Also, to get the ipkg-git, you can either clone this repo or run :
+**sudo apt install ipkg-git**
+ipkg-git gives you all beta features, to get stable :
+**sudo apt install ipkg-stable**
+to get all commands, beta is recommended, it has the ability to search for moddeds by the command :
+**ipkg.sh -sm**
+Explanation (for nerds):
+-"ipkg.sh" - The utility name / command
+"-s" - search
+"-m" - modded
+
+also don't worry bothering yourself by running :
+**sudo ipkg.sh**
+it runs normally, as you download something, it asks for sudo previliges
